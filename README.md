@@ -26,7 +26,7 @@ This application is built using React Native and Expo, providing a seamless expe
 
 3. **Navigate to the project directory:**
    
-    cd inventory-management-app
+    cd InventoryApp
    
 5. **Install dependencies:**
 
