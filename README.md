@@ -22,7 +22,7 @@ This application is built using React Native and Expo, providing a seamless expe
 
 1. **Clone the repository:**
    
-    git clone https://github.com/your-username/inventory-management-app.git
+    git clone https://github.com/Injostis/InventoryApp.git
 
 3. **Navigate to the project directory:**
    
